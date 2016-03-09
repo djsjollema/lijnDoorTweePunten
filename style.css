@@ -1,0 +1,13 @@
+body{ 
+	background-color: azure; 
+}
+
+#canvas{
+    background-color: darkgray;
+    border: solid black 2px;
+}
+
+#keus{
+    display: block;
+    font-size: 20px;
+}
